@@ -6,3 +6,4 @@ pear
 berry
 apple
 stawberry
+pinapple
