@@ -2,7 +2,7 @@ package test;
 
 public class LetsTest {
 
-//to commet here
+//to comment here
 
 
 }
